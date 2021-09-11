@@ -2,7 +2,7 @@
 
 namespace CIHispano\Starter\Commands;
 
-use CodeIgniter\CLI\BaseCommands;
+use CodeIgniter\CLI\BaseCommand;
 use CodeIgniter\CLI\CLI;
 
 class Starter extends BaseCommand
