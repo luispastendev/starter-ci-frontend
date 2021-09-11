@@ -5,7 +5,7 @@ namespace CIHispano\Starter\Command;
 use CodeIgniter\CLI\BaseCommand;
 use CodeIgniter\CLI\CLI;
 
-class Starter extends BaseCommand
+class Starterr extends BaseCommand
 {
     /**
      * The Command's Group
