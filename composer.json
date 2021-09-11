@@ -1,24 +1,21 @@
 {
-    "name": "cihispano/codeigniter4-frontend-starter",
-    "description": "Use react or vue in your CI4 APP",
-    "keywords": ["vue", "react", "codeigniter4"],
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "CIHispano",
-            "email": "luispastendev@gmail.com",
-            "homepage": "https://cihispano.org/",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": "^7.3 || ^8.0",
-        "codeigniter4/framework": "^4.1"
-    },
-    "autoload": {
-        "psr-4": {
-            "CIHispano\\Starter\\": "src/"
-        }
-    },
+	"name": "cihispano/codeigniter4-frontend-starter",
+	"type": "library",
+	"description": "Use react or vue in your CI4 APP",
+	"keywords": ["vue", "react", "codeigniter4"],
+	"homepage": "https://github.com/luispastendev/starter-ci-frontend",
+	"license": "MIT",
+	"authors": [{
+		"name": "CIHispano",
+		"email": "luispasten.dev@gmail.com",
+		"homepage": "https://cihispano.org/"
+	}],
+	"require": {
+		"php": ">7.3"
+	},
+	"autoload": {
+		"psr-4": {
+			"CIHispano\\Starter\\": "src/"
+		}
+	}
 }
