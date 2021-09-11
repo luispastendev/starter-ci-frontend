@@ -1,11 +1,11 @@
 <?php
 
-namespace CIHispano\Starter\Command;
+namespace CIHispano\Starter\Commands;
 
-use CodeIgniter\CLI\BaseCommand;
+use CodeIgniter\CLI\BaseCommands;
 use CodeIgniter\CLI\CLI;
 
-class Starterr extends BaseCommand
+class Starter extends BaseCommand
 {
     /**
      * The Command's Group
