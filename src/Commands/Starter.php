@@ -56,7 +56,7 @@ class Starter extends BaseCommand
      */
     public function run(array $params)
     {
-        CLI::print("Bienvenidos a CIHispano Starter Pack\n", 'light_red');
+        CLI::print("Bienvenidos a CIHispano Starter Pack.\n", 'light_red');
         CLI::print('Esto es un proyecto colaborativo por la comunidad de CIHispano.');
         CLI::newLine();
     }
