@@ -23,7 +23,7 @@ composer update
 ```bash
 php spark starter:init
 ```
-o para ver los comandos disponibles
+Comandos disponibles
 ```bash
 php spark
 ```
